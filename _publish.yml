@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 109113eb-a874-4031-be59-21b8b9d62387
+      url: https://jmjung.quarto.pub/demo-website
